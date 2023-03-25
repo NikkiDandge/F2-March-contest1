@@ -1,0 +1,35 @@
+{
+    "repositories": [
+        {
+            "title": "https://github.com/BlinkDL/RWKV-LM",
+            "description":"RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable).",
+            "url":"https://github.com/BlinkDL/RWKV-LM",
+            "stars": "3,732",
+            "forks":"263",
+            "language":"python"
+
+
+            
+
+        }
+         ,{ 
+            
+            "title": "intitni / CopilotForXcode",
+            "description":"The missing GitHub Copilot Xcode Source Editor Extension",
+            "url":"https://github.com/intitni/CopilotForXcode",
+            "stars": "1,575",
+            "forks":"45",
+            "language":"swift"
+         }
+
+         ,{
+            
+            "title": " willwulfken / MidJourney-Styles-and-Keywords-Reference",
+            "description":"A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+            "url":"https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+            "stars": "5,874",
+            "forks":"851",
+            "language":""
+        }
+    ]
+}
